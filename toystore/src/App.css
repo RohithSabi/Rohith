@@ -1,0 +1,36 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shopping-card {
+  justify-content: space-between;
+  background-color: #61dafb;
+  padding: 0px 30px;
+}
+
+.product-item {
+  padding: 5px;
+}
+.login{
+  margin-left: 70%;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 1rem;
+  background-color: black;
+  padding-top: 10px;
+  padding-left: 10px;
+  height: 40px;
+  padding-right: 10px;
+  border-radius: 20px;
+}
+
+.f{
+background-color: #333;
+color: white;
+}
+.insta{
+  padding:10px;
+  min-height: 23px;
+  min-width: auto;
+}
